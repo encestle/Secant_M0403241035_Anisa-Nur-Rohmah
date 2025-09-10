@@ -8,7 +8,7 @@
 body {
   background: 
     linear-gradient(rgb(0, 0, 0), rgba(0,0,0,0.6)),
-    url("/Portofolio/img/gw.jpeg") no-repeat center center fixed;
+    url("/img/gw.jpeg") no-repeat center center fixed;
     background-size: cover;
     background-position: center 75%;
     background-color: #000;
@@ -134,3 +134,4 @@ footer {
     font-size: 2rem;
   }
 }
+
